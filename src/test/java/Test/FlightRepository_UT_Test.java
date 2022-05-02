@@ -47,7 +47,7 @@ public class FlightRepository_UT_Test {
     public class loadFlightDetails {
         @Test
         public void when_xx_then_success() throws Exception {
-            String file = "C:\\Users\\jithe\\OneDrive\\Desktop\\System_Engineering_Requirements\\Test1\\flights.csv";
+            String file = "C:\Users\Checkout\Desktop\Spring2022\System_Engineering\Test1\flights.csv";
 
 //
 //            boolean addReturnValue = false;
